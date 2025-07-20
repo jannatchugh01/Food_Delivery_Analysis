@@ -40,9 +40,9 @@ Promotional data (promo_code, campaign_id)
 ![City orders](assets/City orders.png)
 
 ### ✅ Restaurant order and commission info
-![Cuisine Popularity](assets/restro_info.png)
+![Restro Info](assets/restro_info.png)
 
 ### ✅ Impact of Promo Codes and Campaigns
-![Promo Effect](assets/Sales affect.png)
+![Promo_Campaingn Effect](assets/Sales affect.png)
 
   
