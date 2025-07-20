@@ -37,12 +37,12 @@ Promotional data (promo_code, campaign_id)
 ## 📈 Visual Highlights
 
 ### ✅ City-wise Order Value
-![City_orders](assets/City_orders.png)
+![City_orders](Assets/City_orders.png)
 
 ### ✅ Restaurant order and commission info
-![Restro_Info](assets/restro_info.png)
+![Restro_Info](Assets/restro_info.png)
 
 ### ✅ Impact of Promo Codes and Campaigns
-![Promo_Campaingn_Effect](assets/Sales_effect.png)
+![Promo_Campaingn_Effect](Assets/Sales_effect.png)
 
   
