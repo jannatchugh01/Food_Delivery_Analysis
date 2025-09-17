@@ -5,7 +5,9 @@ This project analysis food delivery data to uncover insights about customer beha
 ## Tools used
 ✅ Python (Pandas, Numpy, Seaborn, Matplotlib)  
 ✅ Jupyter Notebook  
+✅ Power bi
 ✅ Github  
+
 ## 🎯 Business Questions Addressed
 - Which cities and cuisines drive the highest sales?
 - Which restaurant partners need performance improvement?
