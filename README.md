@@ -45,4 +45,7 @@ Promotional data (promo_code, campaign_id)
 ### ✅ Impact of Promo Codes and Campaigns
 ![Promo_Campaingn_Effect](Assets/Sales_effect.png)
 
+###  ✅ Dashboard
+![Dashboard](Assets/dashboard.png)
+
   
